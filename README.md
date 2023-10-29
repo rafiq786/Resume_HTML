@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onlie Resume</title>
+</head>
+<body>
+    <h1>Rafiqkhan Lohani</h1>
+    <img src="./IMG_0118.JPG" alt="Profile Image of Rafiqkhan Lohani" height="130">
+    <h2>Summary</h2>
+    <p>An energetic and passionate programmer having interest in learning and exploring new things and looking forward to seek opportunities in technical roles in order to leverage my development skills and add to my skill set and I enjoy taking up challenges problem that require creative problems solving skills to generate a solution</p>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>Msc in Computer Science-Keele University(present)</li>
+        <li>BE in Computer Engineering- Universal College OF Engineering(2019-2024)</li>
+    </ul>
+    <hr>
+    <h2>Work Experience</h2>
+    <ul>
+        <li>Frontend Developer-Web Designer Company</li>
+        <p>August 2021 - January2022</p>
+        <li>Developed Program and designed Clone Google Meet</li>    
+    </ul>
+    <hr>
+    <h2>Skiils</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>Bootstrap</li>
+        <li>React JS</li>
+    </ul>
+    <hr>
+    <h3>Certifications</h3>
+    <ol>
+        <li>Python Course Certificate</li>
+        <li>Javascript</li>
+        <li>Full Stack development Certificate</li>
+    </ol>
+    <hr>
+    <h2>Others</h2>
+    <ul>
+        <li><a href="./Contact.html">Conatct me</a></li>
+    </ul>
+    <footer>
+        <p>© Rafiqkhan Lohani. All Rights Reserved</p>
+    </footer>
+</body>
+</html>
